@@ -1,3 +1,4 @@
 # construct 3 game
-a submarine
+arrow keys to move
+space to shoot
 
